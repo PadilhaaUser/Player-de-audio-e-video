@@ -1,0 +1,47 @@
+D:\Projetos Youtube\PlayerC\PlayerC\bin\Debug\PlayerC.exe.config
+D:\Projetos Youtube\PlayerC\PlayerC\bin\Debug\PlayerC.exe
+D:\Projetos Youtube\PlayerC\PlayerC\bin\Debug\PlayerC.pdb
+D:\Projetos Youtube\PlayerC\PlayerC\bin\Debug\Interop.WMPLib.dll
+D:\Projetos Youtube\PlayerC\PlayerC\bin\Debug\AxInterop.WMPLib.dll
+D:\Projetos Youtube\PlayerC\PlayerC\obj\Debug\PlayerC.csprojAssemblyReference.cache
+D:\Projetos Youtube\PlayerC\PlayerC\obj\Debug\Interop.WMPLib.dll
+D:\Projetos Youtube\PlayerC\PlayerC\obj\Debug\AxInterop.WMPLib.dll
+D:\Projetos Youtube\PlayerC\PlayerC\obj\Debug\PlayerC.csproj.ResolveComReference.cache
+D:\Projetos Youtube\PlayerC\PlayerC\obj\Debug\PlayerC.Form1.resources
+D:\Projetos Youtube\PlayerC\PlayerC\obj\Debug\PlayerC.Properties.Resources.resources
+D:\Projetos Youtube\PlayerC\PlayerC\obj\Debug\PlayerC.csproj.GenerateResource.cache
+D:\Projetos Youtube\PlayerC\PlayerC\obj\Debug\PlayerC.csproj.CoreCompileInputs.cache
+D:\Projetos Youtube\PlayerC\PlayerC\obj\Debug\PlayerC.exe
+D:\Projetos Youtube\PlayerC\PlayerC\obj\Debug\PlayerC.pdb
+E:\_Paulo Padilha_\_Facul_\2° Período\Prática Profissional em Programação\teste\PlayerC\PlayerC\bin\Debug\PlayerC.exe.config
+E:\_Paulo Padilha_\_Facul_\2° Período\Prática Profissional em Programação\teste\PlayerC\PlayerC\bin\Debug\PlayerC.exe
+E:\_Paulo Padilha_\_Facul_\2° Período\Prática Profissional em Programação\teste\PlayerC\PlayerC\bin\Debug\PlayerC.pdb
+E:\_Paulo Padilha_\_Facul_\2° Período\Prática Profissional em Programação\teste\PlayerC\PlayerC\bin\Debug\Interop.WMPLib.dll
+E:\_Paulo Padilha_\_Facul_\2° Período\Prática Profissional em Programação\teste\PlayerC\PlayerC\bin\Debug\AxInterop.WMPLib.dll
+E:\_Paulo Padilha_\_Facul_\2° Período\Prática Profissional em Programação\teste\PlayerC\PlayerC\obj\Debug\PlayerC.csproj.AssemblyReference.cache
+E:\_Paulo Padilha_\_Facul_\2° Período\Prática Profissional em Programação\teste\PlayerC\PlayerC\obj\Debug\PlayerC.csproj.SuggestedBindingRedirects.cache
+E:\_Paulo Padilha_\_Facul_\2° Período\Prática Profissional em Programação\teste\PlayerC\PlayerC\obj\Debug\Interop.WMPLib.dll
+E:\_Paulo Padilha_\_Facul_\2° Período\Prática Profissional em Programação\teste\PlayerC\PlayerC\obj\Debug\AxInterop.WMPLib.dll
+E:\_Paulo Padilha_\_Facul_\2° Período\Prática Profissional em Programação\teste\PlayerC\PlayerC\obj\Debug\PlayerC.csproj.ResolveComReference.cache
+E:\_Paulo Padilha_\_Facul_\2° Período\Prática Profissional em Programação\teste\PlayerC\PlayerC\obj\Debug\PlayerC.Form1.resources
+E:\_Paulo Padilha_\_Facul_\2° Período\Prática Profissional em Programação\teste\PlayerC\PlayerC\obj\Debug\PlayerC.Properties.Resources.resources
+E:\_Paulo Padilha_\_Facul_\2° Período\Prática Profissional em Programação\teste\PlayerC\PlayerC\obj\Debug\PlayerC.csproj.GenerateResource.cache
+E:\_Paulo Padilha_\_Facul_\2° Período\Prática Profissional em Programação\teste\PlayerC\PlayerC\obj\Debug\PlayerC.csproj.CoreCompileInputs.cache
+E:\_Paulo Padilha_\_Facul_\2° Período\Prática Profissional em Programação\teste\PlayerC\PlayerC\obj\Debug\PlayerC.exe
+E:\_Paulo Padilha_\_Facul_\2° Período\Prática Profissional em Programação\teste\PlayerC\PlayerC\obj\Debug\PlayerC.pdb
+E:\_Paulo Padilha_\_Facul_\2° Período\Prática Profissional em Programação\ProjetoFinal\Projeto\PlayerC\bin\Debug\PlayerC.exe.config
+E:\_Paulo Padilha_\_Facul_\2° Período\Prática Profissional em Programação\ProjetoFinal\Projeto\PlayerC\bin\Debug\PlayerC.exe
+E:\_Paulo Padilha_\_Facul_\2° Período\Prática Profissional em Programação\ProjetoFinal\Projeto\PlayerC\bin\Debug\PlayerC.pdb
+E:\_Paulo Padilha_\_Facul_\2° Período\Prática Profissional em Programação\ProjetoFinal\Projeto\PlayerC\bin\Debug\Interop.WMPLib.dll
+E:\_Paulo Padilha_\_Facul_\2° Período\Prática Profissional em Programação\ProjetoFinal\Projeto\PlayerC\bin\Debug\AxInterop.WMPLib.dll
+E:\_Paulo Padilha_\_Facul_\2° Período\Prática Profissional em Programação\ProjetoFinal\Projeto\PlayerC\obj\Debug\PlayerC.csproj.AssemblyReference.cache
+E:\_Paulo Padilha_\_Facul_\2° Período\Prática Profissional em Programação\ProjetoFinal\Projeto\PlayerC\obj\Debug\PlayerC.csproj.SuggestedBindingRedirects.cache
+E:\_Paulo Padilha_\_Facul_\2° Período\Prática Profissional em Programação\ProjetoFinal\Projeto\PlayerC\obj\Debug\Interop.WMPLib.dll
+E:\_Paulo Padilha_\_Facul_\2° Período\Prática Profissional em Programação\ProjetoFinal\Projeto\PlayerC\obj\Debug\AxInterop.WMPLib.dll
+E:\_Paulo Padilha_\_Facul_\2° Período\Prática Profissional em Programação\ProjetoFinal\Projeto\PlayerC\obj\Debug\PlayerC.csproj.ResolveComReference.cache
+E:\_Paulo Padilha_\_Facul_\2° Período\Prática Profissional em Programação\ProjetoFinal\Projeto\PlayerC\obj\Debug\PlayerC.Form1.resources
+E:\_Paulo Padilha_\_Facul_\2° Período\Prática Profissional em Programação\ProjetoFinal\Projeto\PlayerC\obj\Debug\PlayerC.Properties.Resources.resources
+E:\_Paulo Padilha_\_Facul_\2° Período\Prática Profissional em Programação\ProjetoFinal\Projeto\PlayerC\obj\Debug\PlayerC.csproj.GenerateResource.cache
+E:\_Paulo Padilha_\_Facul_\2° Período\Prática Profissional em Programação\ProjetoFinal\Projeto\PlayerC\obj\Debug\PlayerC.csproj.CoreCompileInputs.cache
+E:\_Paulo Padilha_\_Facul_\2° Período\Prática Profissional em Programação\ProjetoFinal\Projeto\PlayerC\obj\Debug\PlayerC.exe
+E:\_Paulo Padilha_\_Facul_\2° Período\Prática Profissional em Programação\ProjetoFinal\Projeto\PlayerC\obj\Debug\PlayerC.pdb
